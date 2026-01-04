@@ -1,0 +1,6 @@
+{
+    "dart.sdkPath": "C:\\dev\\flutter\\bin\\cache\\dart-sdk",
+    "dart.flutterSdkPath": "C:\\dev\\flutter",
+    "dart.enableSdkFormatter": true,
+    "dart.lineLength": 80
+}
